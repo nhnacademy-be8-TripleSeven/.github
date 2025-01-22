@@ -3,7 +3,7 @@
 > **클라우드 기반 Spring Boot 웹 도서 쇼핑몰 서비스**
 
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square)
-![Coverage](https://img.shields.io/badge/Coverage-90%25-blue?style=flat-square)
+![Coverage](https://img.shields.io/badge/Coverage-80%25-blue?style=flat-square)
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square)
 
 ---
