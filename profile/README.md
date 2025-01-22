@@ -1,15 +1,61 @@
-## Hi there 👋
+## NHN24 Bookstore
 
-<!--
+### 팀원
 
-**Here are some ideas to get you started:**
+### Service Introduce
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+클라우드 서비스를 적용한 Spring boot 웹 도서 쇼핑몰 서비스
+
+### System Architecture
+
+### CI/CD
+
+### WBS
+* github road맵을 활용하여 칸트차트를 만들고, 해당 일자의 마일스톤을 정리 및 수행함
+  
+
+### Kanban Board
+* GitHub project 칸반보드 활용
+
+
+### Test Coverage
+
+
+
+
+
+<h2>주요 기능</h2>
+
+### 인프라
+
+### 주소
+
+
+### 저자
+
+### 도서
+
+### 카테고리
+
+### 장바구니
+
+### 쿠폰
+
+### 회원
+
+### 주소
+
+### 주문
+
+### 결제
+
+### 포인트
+
+### 리뷰
+
+### 태그
+
+
 
 
 <h2>Stack</h2>
@@ -37,3 +83,6 @@
     <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" alt="Logstash">
     <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana">
 </div>
+
+
+
