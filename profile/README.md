@@ -1,64 +1,85 @@
-## NHN24 Bookstore
+# NHN24 Bookstore
 
-### 팀원
+## 팀원
+팀 구성원 정보를 여기에 작성하세요.
 
-### Service Introduce
+## Service Introduce
+클라우드 서비스를 적용한 Spring Boot 웹 도서 쇼핑몰 서비스
 
-클라우드 서비스를 적용한 Spring boot 웹 도서 쇼핑몰 서비스
+---
 
-### System Architecture
+## System Architecture
+시스템 구조를 설명하는 다이어그램을 삽입하거나 내용을 추가하세요.
 
-### CI/CD
+---
 
-### WBS
-* github road맵을 활용하여 칸트차트를 만들고, 해당 일자의 마일스톤을 정리 및 수행함
-  
+## CI/CD
+- **GitHub Actions**와 **Jenkins**를 활용하여 자동화된 빌드 및 배포
+- 주요 CI/CD 파이프라인 구성 및 단계 설명
 
-### Kanban Board
-* GitHub project 칸반보드 활용
+---
 
+## WBS
+- **GitHub Roadmap**을 활용하여 작업을 체계적으로 관리
+- **Gantt Chart** 기반으로 주요 마일스톤 설정 및 진행 상황 추적
 
-### Test Coverage
+---
 
+## Kanban Board
+- **GitHub Projects**를 활용한 칸반 보드 관리
+- 작업 상태(진행 중, 완료, 대기)를 명확히 구분하여 효율적인 작업 흐름 유지
 
+---
 
+## Test Coverage
+테스트 커버리지 결과를 포함하거나, **SonarQube** 통계 및 그래프를 추가하세요.
 
+---
 
-<h2>주요 기능</h2>
+## 주요 기능
 
 ### 인프라
+- AWS 또는 기타 클라우드 서비스 환경 설명
 
 ### 주소
-
+- 주소 관련 CRUD 기능
 
 ### 저자
+- 저자 관련 데이터 관리 및 연계 기능
 
 ### 도서
+- 도서 등록, 수정, 삭제, 검색 기능
 
 ### 카테고리
+- 카테고리별 도서 분류 및 필터링
 
 ### 장바구니
+- 사용자 장바구니 관리 및 결제 연동
 
 ### 쿠폰
+- 쿠폰 발급 및 적용 기능
 
 ### 회원
-
-### 주소
+- 회원 가입, 로그인, 프로필 관리
 
 ### 주문
+- 주문 생성, 조회, 상태 업데이트
 
 ### 결제
+- 결제 시스템 연동 및 처리
 
 ### 포인트
+- 포인트 적립 및 사용 기능
 
 ### 리뷰
+- 리뷰 작성, 조회, 수정, 삭제
 
 ### 태그
+- 도서 태그 관리 및 검색 기능
 
+---
 
-
-
-<h2>Stack</h2>
+## Stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Apache Maven">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -83,6 +104,3 @@
     <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" alt="Logstash">
     <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana">
 </div>
-
-
-
