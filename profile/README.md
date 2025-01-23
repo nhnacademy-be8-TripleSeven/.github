@@ -232,5 +232,5 @@ Toss
 ---
 
 ## 📬 Contact
-- GitHub Repository: [NHN24 Organization](https://github.com/nhn24)
+- GitHub Repository: [NHN24 Organization](https://github.com/nhnacademy-be8-TripleSeven)
 
