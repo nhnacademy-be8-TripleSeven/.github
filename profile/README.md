@@ -86,6 +86,16 @@
 
 ## 🚀 CI/CD
 - **GitHub Actions**: 코드 테스트 및 빌드 자동화
+Github을 통해 코드베이스를 관리하며 기본적으로 Github Action을 통한 CI를 진행하여 빌드하고 테스트가 진행되어 성공 시 통합과정이 이뤄진다.
+- Git Flow 전략 중에서 크게 Main(Master), Develop, Feature 브랜치 이렇게 3개로 나누어 개발을 진행하였다.
+- 모든 서버는 Git Action을 사용하여 배포를 하고 있다.
+- Develop 브랜치에 통합을 진행할 시에 Sonarqube를 통해서 정적 분석이 이뤄진다.
+- Maven Verify 와 Sonarqube를 통해 Test Coverage를 저장한다
+- 통합 과정이 진행된 이후 이상이 없을 시 Main 브랜치에 통합을 하여 NHN Clound 인스턴스에 배포한다.
+- NHN Cloud의 SKM 를 사용하여 만든 P12 파일을 Git 서버에 올려 Github 환경설정을 등록해두었다.
+- Docker Build 시 DockerFile을 통해서 Jar 파일 빌드 및 패키징, 실행하는 이미지를 생성한다.
+- Deploy 과정 시 인스터스 내의 도커에 이중화를 진행하였다.
+- 매 생성 시마다 새로운 이미지를 생성해놓기 때문에 배포 시마다 3일 이상 경과한 이미지를 정리해준다.
 
 ---
 
