@@ -10,48 +10,48 @@
 
 ## 👨‍👩‍👧‍👦 팀원
 
-<table align="center">
+<table align="center" style="border-collapse: collapse; margin: 20px auto; background: #f9f9f9; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <tr>
         <td align="center" style="padding: 20px;">
-            <a href="https://github.com/janghyunsung2">
-                <img src="https://github.com/Janghyunsung2.png" width="120px;" style="border-radius: 50%;" alt="장현성"/><br/>
-                <sub><b>장현성</b></sub>
+            <a href="https://github.com/janghyunsung2" style="text-decoration: none; color: #333;">
+                <img src="https://github.com/Janghyunsung2.png" width="120px" style="border-radius: 50%; border: 3px solid #ddd;" alt="장현성"/><br/>
+                <sub><b style="font-size: 14px;">장현성</b></sub>
             </a>
         </td>
         <td align="center" style="padding: 20px;">
-            <a href="https://github.com/WillgoNAVER">
-                <img src="https://github.com/WillgoNAVER.png" width="120px;" style="border-radius: 50%;" alt="김기현"/><br/>
-                <sub><b>김기현</b></sub>
+            <a href="https://github.com/WillgoNAVER" style="text-decoration: none; color: #333;">
+                <img src="https://github.com/WillgoNAVER.png" width="120px" style="border-radius: 50%; border: 3px solid #ddd;" alt="김기현"/><br/>
+                <sub><b style="font-size: 14px;">김기현</b></sub>
             </a>
         </td>
         <td align="center" style="padding: 20px;">
-            <a href="https://github.com/wjpark4430">
-                <img src="https://github.com/wjpark4430.png" width="120px;" style="border-radius: 50%;" alt="박우진"/><br/>
-                <sub><b>박우진</b></sub>
+            <a href="https://github.com/wjpark4430" style="text-decoration: none; color: #333;">
+                <img src="https://github.com/wjpark4430.png" width="120px" style="border-radius: 50%; border: 3px solid #ddd;" alt="박우진"/><br/>
+                <sub><b style="font-size: 14px;">박우진</b></sub>
             </a>
         </td>
         <td align="center" style="padding: 20px;">
-            <a href="https://github.com/lushlife99">
-                <img src="https://github.com/lushlife99.png" width="120px;" style="border-radius: 50%;" alt="정찬"/><br/>
-                <sub><b>정찬</b></sub>
+            <a href="https://github.com/lushlife99" style="text-decoration: none; color: #333;">
+                <img src="https://github.com/lushlife99.png" width="120px" style="border-radius: 50%; border: 3px solid #ddd;" alt="정찬"/><br/>
+                <sub><b style="font-size: 14px;">정찬</b></sub>
             </a>
         </td>
         <td align="center" style="padding: 20px;">
-            <a href="https://github.com/milkymarky">
-                <img src="https://github.com/milkymarky.png" width="120px;" style="border-radius: 50%;" alt="최은화"/><br/>
-                <sub><b>최은화</b></sub>
+            <a href="https://github.com/milkymarky" style="text-decoration: none; color: #333;">
+                <img src="https://github.com/milkymarky.png" width="120px" style="border-radius: 50%; border: 3px solid #ddd;" alt="최은화"/><br/>
+                <sub><b style="font-size: 14px;">최은화</b></sub>
             </a>
         </td>
         <td align="center" style="padding: 20px;">
-            <a href="https://github.com/JeongHoeSoek">
-                <img src="https://github.com/JeongHoeSoek.png" width="120px;" style="border-radius: 50%;" alt="정회석"/><br/>
-                <sub><b>정회석</b></sub>
+            <a href="https://github.com/JeongHoeSoek" style="text-decoration: none; color: #333;">
+                <img src="https://github.com/JeongHoeSoek.png" width="120px" style="border-radius: 50%; border: 3px solid #ddd;" alt="정회석"/><br/>
+                <sub><b style="font-size: 14px;">정회석</b></sub>
             </a>
         </td>
         <td align="center" style="padding: 20px;">
-            <a href="https://github.com/jmg5642">
-                <img src="https://github.com/jmg5642.png" width="120px;" style="border-radius: 50%;" alt="조문기"/><br/>
-                <sub><b>조문기</b></sub>
+            <a href="https://github.com/jmg5642" style="text-decoration: none; color: #333;">
+                <img src="https://github.com/jmg5642.png" width="120px" style="border-radius: 50%; border: 3px solid #ddd;" alt="조문기"/><br/>
+                <sub><b style="font-size: 14px;">조문기</b></sub>
             </a>
         </td>
     </tr>
