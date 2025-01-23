@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍👩‍👧‍👦 팀원
+## 🧑‍🤝‍🧑 팀원
 
 <table align="center" style="border-collapse: collapse; margin: 20px auto; background: #f9f9f9; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <tr>
@@ -122,79 +122,112 @@ Github을 통해 코드베이스를 관리하며 기본적으로 Github Action�
 - Docker를 활용한 컨테이너화
 - Nginx를 활용한 로드 밸런싱 및 리버스 프록시 설정
 
-### 주소
+### 🖥️ 프론트(html, css)
 * 담당자: 최은화
 
-### 저자
-* 담당자: 장현성
+### 📮 주소
+* 담당자: 최은화
 
-### 도서
+### 👤 도서 제작자
 * 담당자: 장현성
+* 도서 제작자 CRUD 구현
 
-### 카테고리
+### 📖 도서
 * 담당자: 장현성
+* 도서 CRUD 구현
+* 출판사 CRUD 구현
+* 정렬(최신순, 제목순, 가격순)
 
-### 장바구니
+### 🔍 검색(Elastic Search)
+* 담당자: 장현성
+* 가중치 적용(제목, 작가, 출판사)
+* 동의어 및 유의어 검색 적용
+
+### ☑️ 카테고리
+* 담당자: 장현성
+* 카테고리(CRUD) 구현
+* 카테고리 계층구조 구현
+
+### 🛒 장바구니
 * 담당자: 정찬
 
-### 쿠폰
+### 🎟️ 쿠폰
 * 담당자: 정회석
 
-### 회원
+### 👤 회원
 * 담당자: 정찬, 최은화
 
-### 주문
+### 📱 주문
 * 담당자: 박우진
 
-### 결제
+### 💳 결제
 * 담당자: 조문기
 
-### 포인트
+### 💰 포인트
 * 담당자: 박우진
 
-### 리뷰
+### 📝 리뷰
 * 담당자: 김기현
 
-### 태그
+### 🏷️ 태그
 * 담당자: 김기현
 
 --
-## 팀내 자료
+## 📄 팀내 자료
 
 JWT
 
-Elastic
+🔍 Elastic
+* 장현성
+- https://7976-7976.tistory.com/19
 
 Toss
 
-RabbitMQ
+🐰 RabbitMQ
 * 박우진
 - https://velog.io/@wjpark4430/RabbitMQ-정리
 - https://www.notion.so/Order-API-17a9f62925e98068bc06e1ba3e58d1ae
 
-Nginx
+🅽 Nginx
 * 박우진
 - https://www.notion.so/Nginx-Mac-Os-16c9f62925e98067821ef515b1ee7cf8
 - https://www.notion.so/Nginx-16f9f62925e980568596e5a2ac661a93
 
 
   
---
+---
 
 ## 🛠️ Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Apache Maven">
+    <br>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+        <br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
     <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="JPA">
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
+    <img src="https://img.shields.io/badge/QueryDSL-005E95?style=for-the-badge&logo=code&logoColor=white" alt="QueryDSL">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+        <br>
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+    <img src="https://img.shields.io/badge/SonarLint-4E9BCD?style=for-the-badge&logo=sonarsource&logoColor=white" alt="SonarLint">
     <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
+        <br>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        <br>
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
+    <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Logstash">
+    <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana">
 </div>
+
 
 ---
 
