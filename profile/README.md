@@ -174,7 +174,7 @@ RabbitMQ
 Nginx
 * 박우진
 - https://www.notion.so/Nginx-Mac-Os-16c9f62925e98067821ef515b1ee7cf8
-- https://www.notion.so/Nginx-Mac-Os-16c9f62925e98067821ef515b1ee7cf8
+- https://www.notion.so/Nginx-16f9f62925e980568596e5a2ac661a93
 
 
   
