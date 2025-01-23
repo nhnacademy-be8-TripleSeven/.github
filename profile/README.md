@@ -80,10 +80,7 @@ www.nhn24.store/frontend/main
 ---
 
 ## 🌐 System Architecture
-
-
-<!-- 아키텍처 그림 넣기 -->
-
+![아키텍쳐_new](https://github.com/user-attachments/assets/4c989462-fb1b-4137-96d5-16d9b0bb7f51)
 
 > - **Backend**: Spring Boot, JPA, QueryDSL
 > - **Frontend**: JavaScript, Theamleaf
@@ -93,6 +90,7 @@ www.nhn24.store/frontend/main
 ---
 
 ## 🚀 CI/CD
+![cicd](https://github.com/user-attachments/assets/169fb1d3-deca-45a7-913e-3cfee1c122f7)
 > - **GitHub Actions**: 코드 테스트 및 빌드 자동화
 Github을 통해 코드베이스를 관리하며 기본적으로 Github Action을 통한 CI를 진행하여 빌드하고 테스트가 진행되어 성공 시 통합과정이 이뤄진다.
 > * Git Flow 전략 중에서 크게 Main(Master), Develop, Feature 브랜치 이렇게 3개로 나누어 개발을 진행하였다.
@@ -120,12 +118,14 @@ Github을 통해 코드베이스를 관리하며 기본적으로 Github Action�
 - **SonarQube**: 코드 품질 검사
 - 테스트 커버리지: 80% 이상
 ### 📕 book-coupon-api
-![bookcoupon](https://github.com/user-attachments/assets/9077a9fd-ecaf-4f59-a90c-f752aba1f8cf)
+![스크린샷 2025-01-23 오후 5 24 20](https://github.com/user-attachments/assets/6a6f4ce8-b79e-4d99-92fe-84746175058c)
 ### 🔑 auth-api
 ![auth](https://github.com/user-attachments/assets/d439fc88-0670-4061-9d3a-5eb95459f1b1)
 ### 👤 member-api
+![member](https://github.com/user-attachments/assets/b5b2564a-5ff5-455d-aa4d-33bb0fc85fa9)
 
 ### 🛒 order-api
+![order](https://github.com/user-attachments/assets/5a7292ea-1a99-48f9-bd9c-122b2f61551c)
 
 ---
 ## ERD
