@@ -170,6 +170,7 @@ Toss
 RabbitMQ
 * 박우진
 - https://velog.io/@wjpark4430/RabbitMQ-정리
+- https://www.notion.so/Order-API-17a9f62925e98068bc06e1ba3e58d1ae
 
 Nginx
 * 박우진
