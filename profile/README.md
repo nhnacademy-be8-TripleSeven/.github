@@ -167,8 +167,14 @@ Elastic
 
 Toss
 
-RebitMQ
+RabbitMQ
+* 박우진
+- https://velog.io/@wjpark4430/RabbitMQ-정리
 
+Nginx
+* 박우진
+- https://www.notion.so/Nginx-Mac-Os-16c9f62925e98067821ef515b1ee7cf8
+- https://www.notion.so/Nginx-Mac-Os-16c9f62925e98067821ef515b1ee7cf8
 
 
   
