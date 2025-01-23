@@ -7,6 +7,9 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square)
 
 ---
+도메인: www.nhn24.store/frontend/main
+
+---
 
 ## 🧑‍🤝‍🧑 팀원
 
@@ -101,16 +104,20 @@ Github을 통해 코드베이스를 관리하며 기본적으로 Github Action�
 
 ## 🗓️ WBS & Kanban Board
 ### Gantt Chart
-![Gantt Chart](https://via.placeholder.com/800x400?text=Gantt+Chart+Preview)
+<img width="860" alt="roadmap" src="https://github.com/user-attachments/assets/7a53f57f-1eb1-4aa1-a24b-b81799c640d3" />
+
 
 ### Kanban Board
-![Kanban Board](https://via.placeholder.com/800x400?text=Kanban+Board+Preview)
-
+![kanban](https://github.com/user-attachments/assets/22e857c7-43fa-41c9-bdbe-9bfb0567d12e)
 ---
 
 ## 🧪 Test Coverage
 - **SonarQube**: 코드 품질 검사
 - 테스트 커버리지: 90% 이상
+
+---
+### ERD
+![통합 ERD](https://github.com/user-attachments/assets/c3fd9b8c-8847-48fb-b4ae-f6b3cf4287a3)
 
 ---
 
@@ -225,8 +232,6 @@ Toss
 - https://www.notion.so/Nginx-Mac-Os-16c9f62925e98067821ef515b1ee7cf8
 - https://www.notion.so/Nginx-16f9f62925e980568596e5a2ac661a93
 
-
-  
 ---
 
 ## 🛠️ Stack
