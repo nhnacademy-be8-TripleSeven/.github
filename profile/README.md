@@ -8,7 +8,7 @@
 
 ---
 ### 📖 도메인
-www.nhn24.store/frontend/main
+www.nhn24.shop/frontend/main
 
 ---
 
