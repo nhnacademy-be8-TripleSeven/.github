@@ -129,6 +129,9 @@ Github을 통해 코드베이스를 관리하며 기본적으로 Github Action�
 
 ---
 ## ERD
+
+https://www.erdcloud.com/d/edCuFxkC2njQx7jKK
+
 ![통합 ERD](https://github.com/user-attachments/assets/c3fd9b8c-8847-48fb-b4ae-f6b3cf4287a3)
 
 ---
