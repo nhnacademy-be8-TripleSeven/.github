@@ -8,7 +8,8 @@
 
 ---
 ### 📖 도메인
-www.nhn24.shop/frontend/main
+~~[www.nhn24.shop/frontend/main](http://www.nhn24.shop/frontend/main)~~  
+프로젝트 기간이 끝나, 현재 해당 도메인은 사용되지 않습니다.
 
 ---
 
