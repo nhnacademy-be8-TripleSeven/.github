@@ -80,7 +80,7 @@ https://nhn24.shop
 ---
 
 ## 🌐 System Architecture
-![아키텍쳐_new](https://github.com/user-attachments/assets/4c989462-fb1b-4137-96d5-16d9b0bb7f51)
+![image](https://github.com/user-attachments/assets/706a7f5e-5bcd-4ec0-9315-df7283469fdc)
 
 > - **Backend**: Spring Boot, JPA, QueryDSL
 > - **Frontend**: JavaScript, Theamleaf
